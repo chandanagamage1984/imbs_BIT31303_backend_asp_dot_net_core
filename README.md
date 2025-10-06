@@ -134,7 +134,7 @@ Update appsettings.json with your database connection string:
 json
 {
   "ConnectionStrings": {
-    "DefaultConnection": "Server=localhost;Database=EmployeesManagementDb;Trusted_Connection=true;TrustServerCertificate=true;"
+    "DefaultConnection": "Server=localhost;Database=bit31303_emp_mgt_sys;Trusted_Connection=true;TrustServerCertificate=true;"
   }
 }
 
