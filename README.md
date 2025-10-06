@@ -141,9 +141,9 @@ json
 ### 4. Verify Installation
 The application will start on:
 
-* HTTPS: https://localhost:7000
+* HTTPS: https://localhost:7155
 
-* HTTP: http://localhost:5000
+* HTTP: http://localhost:5256
 
 Test the API endpoints:
 
